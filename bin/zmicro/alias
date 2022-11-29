@@ -11,6 +11,7 @@ help() {
 
 version() {
   neofetch --version
+  return 0
 }
 
 core() {
