@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="neofetch"
+export PACKAGE_CORE_VERSION=v7.1.0
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/dylanaraps/neofetch/releases/download"
