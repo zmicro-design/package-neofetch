@@ -6,6 +6,7 @@ help() {
   echo ""
 
   neofetch --help
+  return 0
 }
 
 version() {
